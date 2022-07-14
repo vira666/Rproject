@@ -30,7 +30,7 @@ plot + theme(axis.title.x = element_text(colour = "plum4"),
 
 sink("C:\\Users\\vira_\\Downloads\\output_statistics.txt", split=TRUE)
 
-# описательные статистики  
+# РѕРїРёСЃР°С‚РµР»СЊРЅС‹Рµ СЃС‚Р°С‚РёСЃС‚РёРєРё  
 table1 <- table(tweets$sentiment)
 sort(table1)
 sort(prop.table(table1))
