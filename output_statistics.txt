@@ -1,0 +1,10 @@
+
+     anger    boredom enthusiasm      empty       hate     relief        fun   surprise 
+       110        179        759        827       1323       1526       1776       2187 
+      love    sadness  happiness      worry    neutral 
+      3842       5165       5209       8459       8638 
+
+     anger    boredom enthusiasm      empty       hate     relief        fun   surprise 
+  0.002750   0.004475   0.018975   0.020675   0.033075   0.038150   0.044400   0.054675 
+      love    sadness  happiness      worry    neutral 
+  0.096050   0.129125   0.130225   0.211475   0.215950 
